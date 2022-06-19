@@ -1,4 +1,4 @@
-# dvc-project-template
+# DVC-project-Docs-template-new
 DVC project template
 
 ## STEPS -
